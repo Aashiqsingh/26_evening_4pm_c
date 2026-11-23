@@ -1,0 +1,47 @@
+// # - PRE processor -- LINK
+// include -- directory / folder
+// stdio  standard input output 
+// conio : console inpit output
+void -- datatype -- NULL 
+main() - function - entry point
+
+
+Datatypes            range              format specifier      size
+1. int           -32767 to 32766            %d                  4
+2. float                                    %f                  4 
+3. char           -128   to 128             %c                  1
+4. long int                                 %ld                 8
+5. double                                   %lf                 8
+
+
+
+Operator:
+
+There are three opertaor :
+1. unary : 
+    it will required only one operand
+    int a = 5
+    a++ , ++a
+2. binary :
+    it will required two operand
+
+3. ternary :
+    it will required three operand
+    ex : ? :
+
+Binary :
+1. Airthmatic opt : + , - , * , / , % 
+2. Assignment opt : = , (+= , -= , *= , /= , %=) - short hand property
+3. logical opr : && , || , !
+4. bitwise opt : & , | , ^
+5. relational opt/ comparision opt : == , != , < , > , <= , >= 
+6. shift opt : << , >>
+
+
+unary :
+1. increment
+    1. pre incre
+    2. post incre
+2. decrement
+    1. pre decre
+    2. post decre
