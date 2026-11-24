@@ -8,3 +8,9 @@ a++ + --b + --c + a-- + b-- + --c + b--;
 int a = 11,b = 12,c = 16,d= 19
 ans = a++ + d-- + --d + c-- + --d + --c + --b + b++ + c++ + d++ + ++d + c++ + ++c --c + ++b + a++ 
 + a++ + --c + --a + --b + b-- + b++;
+
+
+24-nov
+
+1. area of rectangle
+2. simple interest;

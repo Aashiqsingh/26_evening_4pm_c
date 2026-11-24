@@ -45,3 +45,11 @@ unary :
 2. decrement
     1. pre decre
     2. post decre
+
+
+Logical &&
+         &&       ||
+0 0       0        0
+0 1       0        1
+1 0       0        1
+1 1       1        1
